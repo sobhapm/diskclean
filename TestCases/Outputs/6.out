@@ -1,0 +1,15 @@
+	1.  ./TestCases/Case6/D1/
+	2.  ./TestCases/Case6/D3/
+
+
+d.txt
+|
+|_____./TestCases/Case6/D1/D2
+|
+|_____./TestCases/Case6/D3/D4
+
+b.txt
+|
+|_____./TestCases/Case6/D1/D2
+|
+|_____./TestCases/Case6/D3/D4
